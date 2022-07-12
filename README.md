@@ -2,7 +2,7 @@
 #### Software Dev 
 I'm Hady from Egypt , and I do Software Development. I really enjoy learning languages and frameworks like python and Django , as well as Solve Complex Problems. I also enjoy participating in programing competitions.
 
-Skills: Problem Solving / Data Structures / Algorithms  / Django / PHP 
+Skills: Problem Solving / Data Structures / Algorithms  / C++ / DL / ML /  Django / PHP 
 
 
 
