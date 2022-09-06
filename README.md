@@ -1,8 +1,8 @@
 ### Hi there 👋, Hady Mosaad
-#### Software Dev 
-I'm Hady from Egypt , and I do Software Development. I really enjoy learning languages and frameworks like python and Django , as well as Solve Complex Problems. I also enjoy participating in programing competitions.
+#### Software Engineer
+I'm Hady from Egypt , and I do Software Engineering. I really enjoy learning languages and frameworks like python and Django , as well as Solve Complex Problems. I also enjoy participating in programing competitions.
 
-Skills: Problem Solving / Data Structures / Algorithms  / C++ / DL / ML /  Django / PHP 
+Skills: Problem Solving / Data Structures / Algorithms  / MySQL / Operating Systems / APIs / C++ / DL / ML /  Django / PHP 
 
 
 
